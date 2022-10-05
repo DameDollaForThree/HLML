@@ -1,4 +1,4 @@
-#  HLML-Pytorch
+#  NRML-Pytorch
 PyTorch implementation of Neural Routing in Meta Learning (NRML) based on [Model-Agnostic Meta-Learning (MAML)](https://arxiv.org/abs/1703.03400).
 
 Support `Omniglot` and `MiniImageNet` datasets.
