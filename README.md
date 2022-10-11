@@ -5,7 +5,7 @@ Support `Omniglot` and `MiniImageNet` datasets.
 
 **Core idea**: Select certain CNN filters / neurons to update based on the magnitudes of the scaling factor of the batch normalization layers.
 
-<img src="model.png" width="60%"/>
+<img src="model.png" width="80%"/>
 
 # Acknowledgement
 This repo is largely built based on this excellent [PyTorch implementation of MAML](https://github.com/dragen1860/MAML-Pytorch).
